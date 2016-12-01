@@ -1,0 +1,43 @@
+body {
+  padding-bottom: 30px;
+}
+
+*{
+  font-family: 'Oxygen', sans-serif;
+}
+/** Navigation **/
+#navigation a.navbar-brand {
+  color: #fff;
+  font-weight: bold;
+  text-decoration: none;
+
+}
+
+#navbar a:hover, #navbar a:active {
+  background-color: #3b3b3b;
+}
+#navbar a {
+  color: #fff;
+}
+
+/** Content **/
+#main-content {
+width: 95%;
+}
+#content section {
+  background-color:   #20B2AA;
+  
+
+}
+
+p{
+  font-style: italic;
+  margin-top: 35px;
+  font-size: 1.2em;
+}
+
+#menu1 h3,#menu2 h3,#menu3 h3 {
+	    color: black;
+	    text-transform: uppercase;
+	    font-weight: bold;
+}
